@@ -171,7 +171,7 @@ body {
 
 /* line 1, ../sass/partials/_typography.scss */
 body, textarea, input, button, input[type="submit"], input[type="button"] {
-  font-family: "Open Sans", "Proxima Nova Soft", "proxima-nova-soft", "PT SANS", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
   color: #4a4444;
   line-height: 1.6; }
 
@@ -671,7 +671,7 @@ body.pageslide-open {
 
 /* line 10, ../sass/modules/_header.scss */
 .header {
-  background: #4e555d url("/img/bg-header.png") top center;
+  background: #4e555d url("") top center;
   background-color: #4e555d;
   margin-bottom: 10px;
   height: 70px;
@@ -955,7 +955,7 @@ body.pageslide-open {
         -webkit-box-shadow: none;
         -moz-box-shadow: none;
         box-shadow: none;
-        background: #4e555d url("/img/bg-header.png") top center; }
+        background: #4e555d url("") top center; }
         /* line 80, ../sass/modules/_posts.scss */
         .post-content .post-upvote .upvote-link.not-voted:hover i {
           color: white;
@@ -1066,7 +1066,7 @@ body.pageslide-open {
         color: #7ac0e4; }
       /* line 185, ../sass/modules/_posts.scss */
       .post-actions li a:hover {
-        background: #4e555d url("/img/bg-header.png") top center;
+        background: #4e555d url("") top center;
         color: white; }
       /* line 189, ../sass/modules/_posts.scss */
       .post-actions li a.voted {
@@ -1172,7 +1172,7 @@ body.pageslide-open {
   background: #fffce0; }
 /* line 288, ../sass/modules/_posts.scss */
 .post.sticky .post-actions li a:hover {
-  background: #4e555d url("/img/bg-header.png") top center; }
+  background: #4e555d url("") top center; }
 
 /* line 292, ../sass/modules/_posts.scss */
 .more-button {
