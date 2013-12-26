@@ -991,9 +991,9 @@ body.pageslide-open {
     .post-content .post-heading .post-title {
       font-family: "Helvetica Neue", Helvetica, sans-serif;
       font-weight: normal;
-      font-size: 24px;
+      font-size: 18px;
       color: #F45B56;
-      line-height: 1; }
+      line-height: 2; }
       /* line 117, ../sass/modules/_posts.scss */
       .post-content .post-heading .post-title:visited {
         color: #b5b0b0; }
@@ -2005,10 +2005,10 @@ table {
       padding: 6px 4px 6px 8px; }
     /* line 174, ../sass/partials/_mobile.scss */
     .post .post-content .post-heading .post-title {
-      line-height: 1.2;
+      line-height: 2;
       display: block;
       margin-bottom: 4px;
-      font-size: 24px;
+      font-size: 18px;
       font-weight: normal;}
     /* line 180, ../sass/partials/_mobile.scss */
     .post .post-content .post-heading .post-domain {
