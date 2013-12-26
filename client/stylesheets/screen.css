@@ -842,7 +842,7 @@ body.pageslide-open {
   position: relative; }
   /* line 160, ../sass/modules/_header.scss */
   .search .search-field {
-    font-size: 14px;
+    font-size: 12px;
     padding: 4px 12px;
     line-height: 1.3;
     border-radius: 20px;
@@ -991,7 +991,7 @@ body.pageslide-open {
     .post-content .post-heading .post-title {
       font-family: "Helvetica Neue", Helvetica, sans-serif;
       font-style:normal;
-      font-size: 18px;
+      font-size: 32px;
       color: #F45B56;
       line-height: 1; }
       /* line 117, ../sass/modules/_posts.scss */
@@ -2008,7 +2008,7 @@ table {
       line-height: 1.2;
       display: block;
       margin-bottom: 4px;
-      font-size: 18px; }
+      font-size: 32px; }
     /* line 180, ../sass/partials/_mobile.scss */
     .post .post-content .post-heading .post-domain {
       line-height: 1;
