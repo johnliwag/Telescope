@@ -171,10 +171,8 @@ body {
 
 /* line 1, ../sass/partials/_typography.scss */
 body, textarea, input, button, input[type="submit"], input[type="button"] {
-  font-family:"Apercu Bold", Calibri, sans-serif;
-  font-size-adjust:0.508;
-  font-weight:bold;
-  font-style:normal; 
+  font-family: "Helvetica Neue", Helvetica, sans-serif;
+  font-style: normal;
   color: #4a4444;
   line-height: 1.6; }
 
@@ -198,12 +196,12 @@ h2 {
 h3 {
   font-weight: bold;
   margin-bottom: 10px;
-  color: #b3c1c6; }
+  color: #cccccc; }
 
 /* line 28, ../sass/partials/_typography.scss */
 .small {
   font-size: 80%;
-  color: #b3c1c6; }
+  color: #cccccc; }
 
 @font-face {
   font-family: 'icomoon';
@@ -982,7 +980,7 @@ body.pageslide-open {
     font-size: 24px; }
     /* line 103, ../sass/modules/_posts.scss */
     .post-content .post-sticky i {
-      color: #b3c1c6; }
+      color: #cccccc; }
     /* line 106, ../sass/modules/_posts.scss */
     .post-content .post-sticky span {
       display: none; }
@@ -991,13 +989,10 @@ body.pageslide-open {
     margin-bottom: 0px; }
     /* line 112, ../sass/modules/_posts.scss */
     .post-content .post-heading .post-title {
-      font-family:"Apercu Bold", Calibri, sans-serif; font-size-adjust:0.508;
-      font-weight:bold;
+      font-family: "Helvetica Neue", Helvetica, sans-serif;
       font-style:normal;
-      font-size: 14px;
+      font-size: 18px;
       color: #F45B56;
-      text-transform: uppercase;
-      letter-spacing: 0.1em;
       line-height: 1; }
       /* line 117, ../sass/modules/_posts.scss */
       .post-content .post-heading .post-title:visited {
@@ -1007,7 +1002,7 @@ body.pageslide-open {
         color: #f36c3d; }
     /* line 124, ../sass/modules/_posts.scss */
     .post-content .post-heading .post-domain {
-      color: #b3c1c6;
+      color: #cccccc;
       font-size: 14px;
       font-weight: normal; }
     /* line 129, ../sass/modules/_posts.scss */
@@ -1031,7 +1026,7 @@ body.pageslide-open {
   /* line 144, ../sass/modules/_posts.scss */
   .post-content .post-meta {
     font-size: 13px;
-    color: #b3c1c6;
+    color: #cccccc;
     line-height: 1.5; }
 
 /* line 150, ../sass/modules/_posts.scss */
@@ -1055,7 +1050,7 @@ body.pageslide-open {
       line-height: 70px;
       vertical-align: baseline;
       text-align: center;
-      color: #b3c1c6;
+      color: #cccccc;
       font-size: 36px;
       line-height: 50px; }
       /* line 172, ../sass/modules/_posts.scss */
@@ -1107,7 +1102,7 @@ body.pageslide-open {
         bottom: 5px;
         left: 0px;
         font-size: 13px;
-        color: #b3c1c6;
+        color: #cccccc;
         pointer-events: none; }
 
 /* line 227, ../sass/modules/_posts.scss */
@@ -1326,7 +1321,7 @@ body.pageslide-open {
 /* line 147, ../sass/modules/_comments.scss */
 .comment-meta {
   margin-bottom: 5px;
-  color: #b3c1c6; }
+  color: #cccccc; }
   /* line 149, ../sass/modules/_comments.scss */
   .comment-meta .comment-username, .comment-meta .comment-time, .comment-meta .comment-permalink {
     display: inline-block;
@@ -1338,7 +1333,7 @@ body.pageslide-open {
     white-space: nowrap;
     overflow: hidden;
     width: 20px;
-    color: #b3c1c6;
+    color: #cccccc;
     margin: 0; }
     /* line 160, ../sass/modules/_comments.scss */
     .comment-meta .comment-permalink:before {
@@ -1414,7 +1409,7 @@ body.pageslide-open {
     cursor: default; }
     /* line 222, ../sass/modules/_comments.scss */
     .comment-actions.downvoted .upvote i, .comment-actions.upvoted .downvote i {
-      color: #b3c1c6; }
+      color: #cccccc; }
     /* line 225, ../sass/modules/_comments.scss */
     .comment-actions.downvoted .upvote:hover, .comment-actions.upvoted .downvote:hover {
       background: white; }
@@ -1552,7 +1547,7 @@ form input[type="text"], form input[type="password"], form .login-form input, .a
   line-height: 20px; }
 /* line 78, ../sass/modules/_forms.scss */
 form input[disabled='disabled'], .accounts-dialog input[disabled='disabled'] {
-  color: #b3c1c6;
+  color: #cccccc;
   background: #e7eff2; }
 /* line 82, ../sass/modules/_forms.scss */
 form textarea, .accounts-dialog textarea {
@@ -1564,7 +1559,7 @@ form input[type="submit"], form button, form .button, form .auth-buttons #login-
 /* line 89, ../sass/modules/_forms.scss */
 form .note, .accounts-dialog .note {
   padding: 5px 0;
-  color: #b3c1c6;
+  color: #cccccc;
   font-size: 80%; }
 
 /* line 95, ../sass/modules/_forms.scss */
@@ -1786,11 +1781,11 @@ table {
       background: white; }
       /* line 28, ../sass/modules/_notifications.scss */
       .notifications ul li .notification-timestamp {
-        color: #b3c1c6;
+        color: #cccccc;
         font-size: 12px; }
       /* line 32, ../sass/modules/_notifications.scss */
       .notifications ul li.read {
-        color: #b3c1c6;
+        color: #cccccc;
         background: #f3f3f3; }
   /* line 38, ../sass/modules/_notifications.scss */
   .notifications .notifications-toggle {
@@ -1816,7 +1811,7 @@ table {
       -webkit-box-shadow: none;
       -moz-box-shadow: none;
       box-shadow: none;
-      color: #b3c1c6; }
+      color: #cccccc; }
   /* line 55, ../sass/modules/_notifications.scss */
   .notifications-open .notifications {
     left: 0px;
