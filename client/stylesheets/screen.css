@@ -988,8 +988,10 @@ body.pageslide-open {
     margin-bottom: 0px; }
     /* line 112, ../sass/modules/_posts.scss */
     .post-content .post-heading .post-title {
-      font-size: 20px;
+      font-size: 18px;
       color: #4a4444;
+      text-transform: uppercase;
+      letter-spacing: 0.15em;
       font-weight: normal;
       line-height: 1; }
       /* line 117, ../sass/modules/_posts.scss */
