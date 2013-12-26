@@ -990,8 +990,8 @@ body.pageslide-open {
     /* line 112, ../sass/modules/_posts.scss */
     .post-content .post-heading .post-title {
       font-family: "Helvetica Neue", Helvetica, sans-serif;
-      font-style:normal;
-      font-size: 32px;
+      font-weight: normal;
+      font-size: 24px;
       color: #F45B56;
       line-height: 1; }
       /* line 117, ../sass/modules/_posts.scss */
@@ -2008,7 +2008,8 @@ table {
       line-height: 1.2;
       display: block;
       margin-bottom: 4px;
-      font-size: 32px; }
+      font-size: 24px;
+      font-weight: normal;}
     /* line 180, ../sass/partials/_mobile.scss */
     .post .post-content .post-heading .post-domain {
       line-height: 1;
