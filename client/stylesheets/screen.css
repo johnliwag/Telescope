@@ -371,7 +371,7 @@ body.pageslide-open {
   margin-bottom: 0; }
 /* line 35, ../sass/partials/_markdown.scss */
 .markdown h1 {
-  font-size: 36px; }
+  font-size: 28px; }
 /* line 38, ../sass/partials/_markdown.scss */
 .markdown h2 {
   font-size: 24px; }
@@ -710,7 +710,7 @@ body.pageslide-open {
     left: 0px;
     width: 100%;
     color: white;
-    font-size: 30px;
+    font-size: 24px;
     z-index: 10; }
     /* line 35, ../sass/modules/_header.scss */
     .header .logo a, .header .logo a:visited {
@@ -942,8 +942,8 @@ body.pageslide-open {
         width: 100%;
         text-align: center;
         vertical-align: middle;
-        color: #92b5c3;
-        color: #f36c3d;
+        color: #cccccc;
+        color: #f45b56;
         text-shadow: 0px 1px 0px white; }
         /* line 70, ../sass/modules/_posts.scss */
         .post-content .post-upvote .upvote-link i.icon-check {
@@ -969,7 +969,7 @@ body.pageslide-open {
           display: none; }
         /* line 90, ../sass/modules/_posts.scss */
         .post-content .post-upvote .upvote-link.voted i.icon-check {
-          color: #7ac0e4;
+          color: #f45b56;
           display: table-cell; }
   /* line 97, ../sass/modules/_posts.scss */
   .post-content .post-sticky {
@@ -991,15 +991,15 @@ body.pageslide-open {
     .post-content .post-heading .post-title {
       font-family: "Helvetica Neue", Helvetica, sans-serif;
       font-weight: normal;
-      font-size: 18px;
+      font-size: 20px;
       color: #F45B56;
       line-height: 1; }
       /* line 117, ../sass/modules/_posts.scss */
       .post-content .post-heading .post-title:visited {
-        color: #b5b0b0; }
+        color: #848484; }
       /* line 120, ../sass/modules/_posts.scss */
       .post-content .post-heading .post-title:hover {
-        color: #f36c3d; }
+        color: #515151; }
     /* line 124, ../sass/modules/_posts.scss */
     .post-content .post-heading .post-domain {
       color: #cccccc;
@@ -1388,7 +1388,7 @@ body.pageslide-open {
       line-height: 30px;
       text-align: center;
       text-indent: 0;
-      color: #f36c3d; }
+      color: #cccccc; }
     /* line 204, ../sass/modules/_comments.scss */
     .comment-actions a:hover {
       background: #4e555d; }
