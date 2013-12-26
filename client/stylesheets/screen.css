@@ -712,7 +712,7 @@ body.pageslide-open {
     color: white;
     font-size: 18px;
     text-transform: uppercase;
-    line-height: 1em;
+    line-height: 3em;
     letter-spacing: 0.15em;
     z-index: 10; }
     /* line 35, ../sass/modules/_header.scss */
