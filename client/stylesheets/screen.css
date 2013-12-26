@@ -988,6 +988,7 @@ body.pageslide-open {
     margin-bottom: 0px; }
     /* line 112, ../sass/modules/_posts.scss */
     .post-content .post-heading .post-title {
+      font-family:"Apercu Bold", Calibri, sans-serif; font-size-adjust:0.508; font-weight:bold; font-style:normal;
       font-size: 14px;
       color: #F45B56;
       text-transform: uppercase;
