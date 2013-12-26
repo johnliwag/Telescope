@@ -1025,7 +1025,7 @@ body.pageslide-open {
         color: white; }
   /* line 144, ../sass/modules/_posts.scss */
   .post-content .post-meta {
-    font-size: 13px;
+    font-size: 11px;
     color: #cccccc;
     line-height: 1.5; }
 
@@ -1101,7 +1101,7 @@ body.pageslide-open {
         position: absolute;
         bottom: 5px;
         left: 0px;
-        font-size: 13px;
+        font-size: 11px;
         color: #cccccc;
         pointer-events: none; }
 
@@ -1648,7 +1648,7 @@ input[type="submit"], button, .button, .auth-buttons #login-buttons #login-butto
   -o-border-radius: 3px;
   border-radius: 3px;
   padding: 8px 15px;
-  font-size: 13px; }
+  font-size: 11px; }
   /* line 3, ../sass/partials/_mixins.scss */
   .filter-sort:before, .filter-sort:after {
     content: "";
@@ -1675,7 +1675,7 @@ input[type="submit"], button, .button, .auth-buttons #login-buttons #login-butto
 
 /* line 25, ../sass/modules/_users.scss */
 .user-list, .user-table {
-  font-size: 13px; }
+  font-size: 11px; }
   /* line 28, ../sass/modules/_users.scss */
   .user-list .user .user-avatar, .user-table .user .user-avatar {
     height: 30px;
@@ -1723,7 +1723,7 @@ table {
     font-weight: bold; }
   /* line 73, ../sass/modules/_users.scss */
   .search-date-header .search-count {
-    font-size: 13px;
+    font-size: 11px;
     display: block;
     float: right; }
 
@@ -1763,7 +1763,7 @@ table {
     display: block;
     text-align: center;
     padding: 10px;
-    font-size: 13px;
+    font-size: 11px;
     border-bottom: 1px solid #dfdbdb;
     background: #f3f3f3; }
     /* line 16, ../sass/modules/_notifications.scss */
@@ -1777,7 +1777,7 @@ table {
     .notifications ul li {
       padding: 10px;
       border-bottom: 1px solid #dfdbdb;
-      font-size: 13px;
+      font-size: 11px;
       background: white; }
       /* line 28, ../sass/modules/_notifications.scss */
       .notifications ul li .notification-timestamp {
@@ -1804,7 +1804,7 @@ table {
     -moz-box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
     box-shadow: 0 1px 1px rgba(0, 0, 0, 0.15);
     padding: 3px 10px;
-    font-size: 13px; }
+    font-size: 11px; }
     /* line 49, ../sass/modules/_notifications.scss */
     .notifications .notifications-toggle.no-notifications {
       background: rgba(255, 255, 255, 0.3);
@@ -2015,7 +2015,7 @@ table {
       line-height: 1;
       display: block;
       margin-bottom: 4px;
-      font-size: 13px; }
+      font-size: 11px; }
     /* line 187, ../sass/partials/_mobile.scss */
     .post .post-content .post-meta {
       font-size: 11px; }
